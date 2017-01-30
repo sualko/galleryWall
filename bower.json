@@ -1,0 +1,17 @@
+{
+  "name": "galleryWall",
+  "main": "index.js",
+  "authors": [
+    "sualko <klaus@jsxc.org>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "https://github.com/sualko/galleryWall",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
