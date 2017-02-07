@@ -12,7 +12,8 @@
 
         this.each(function() {
             var el = $(this);
-            var fullWidth = el.width();
+            // jQuery only returns rounded integers
+            var fullWidth = Math.floor(el.width()) - 1;
             var freeWidth = fullWidth;
             var row = [];
 
