@@ -1,0 +1,22 @@
+{
+  "name": "gallery-wall",
+  "version": "0.1.0",
+  "description": "Align images in order to create a wall of images",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sualko/galleryWall.git"
+  },
+  "author": "@sualko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sualko/galleryWall/issues"
+  },
+  "homepage": "https://github.com/sualko/galleryWall#readme"
+}
